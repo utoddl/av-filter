@@ -2,7 +2,10 @@
 
 """Filter for "ansible-vault"ing YAML Data Values
 
-https://gist.github.com/utoddl/66baa4154618ba1fc8ec8127483e7e89
+License: GNU General Public License v3.0
+URL: https://github.com/utoddl/av-filter
+(Originally https://gist.github.com/utoddl/66baa4154618ba1fc8ec8127483e7e89, but
+converted to a full project to facilitate collaboration.)
 
 This script allows an ansible user to pass lines of yaml data
 through it to get string values vaulted and/or already-vaulted values
